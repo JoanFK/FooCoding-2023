@@ -1,0 +1,72 @@
+*
+*:before,
+*:after
+{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 3rem;
+    color: blue;
+    text-align: center;
+}
+
+.container {
+    position: fixed;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bun-top {
+    height: 80px;
+    width: 400px;
+    background-color: brown;
+    border-radius: 800px 800px 10px 10px;
+    margin: auto 0;
+}
+
+.lettuce {
+    height: 20px;
+    width: 400px;
+    background-color: green;
+    margin: auto 0;
+}
+
+.cheese {
+    height: 20px;
+    width: 400px;
+    background-color: yellow;
+    margin: auto 0;
+}
+
+.burger-meat {
+    height: 50px;
+    width: 400px;
+    background-color: burlywood;
+    border-radius: 50%;
+    margin: auto 0;
+}
+
+.mayo {
+    height: 20px;
+    width: 400px;
+    background-color: gray;
+    margin: auto 0;
+}
+
+.ketchup {
+    height: 20px;
+    width: 400px;
+    background-color: red;
+    margin: auto 0;
+}
+
+.bun-bottom {
+    height: 80px;
+    width: 400px;
+    background-color: brown;
+    border-radius: 10px 10px 800px 800px;   
+    margin: auto 0;
+}
